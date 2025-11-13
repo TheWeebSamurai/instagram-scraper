@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "lowdb": "^7.0.1",
+    "puppeteer": "^24.29.1",
+    "typescript": "^5.9.3"
+  },
+  "name": "puppeteerfolder",
+  "version": "0.0.1",
+  "description": "a backend controller for adBackend",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "theweebsamurai",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^5.0.5"
+  }
+}
